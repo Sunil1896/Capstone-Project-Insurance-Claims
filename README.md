@@ -13,6 +13,13 @@ Objective: The objective of this project is to conduct a comprehensive analysis 
 - Conduct multiple linear regression to identify key factors affecting insurance charges.
 - Provide insights and recommendations based on the analysis.
 
+  ![Screenshot 2024-12-02 145133](https://github.com/user-attachments/assets/e1332f35-e62a-4e0c-b3d9-92872cebeaff)
+  ![Screenshot 2024-12-02 145255](https://github.com/user-attachments/assets/4993d77b-2d9f-418e-bb57-123dc83abc2a)
+  ![Screenshot 2024-12-02 145304](https://github.com/user-attachments/assets/d81073dc-4945-4c9d-95fa-6dcb6adaffbd)
+
+
+
+
 # Key Skills
 - Data Analysis: Proficiency in analyzing and interpreting data using statistical methods.
 - Data Visualization: Ability to create meaningful visualizations such as histograms, box plots, scatter plots, and pivot charts.
